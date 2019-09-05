@@ -11,7 +11,7 @@ Time spent: **2** hours spent in total
 The following **required** functionality is complete:
 
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-
+<img src="tipCalculator.gif" width="" alt="broken image" />
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
 * [ ] UI animations
